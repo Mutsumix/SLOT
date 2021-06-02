@@ -1,7 +1,7 @@
 
 # SLOT - slot machine for SMC Year-end party
 
-2020年のシスマック忘年会で使用したスロットマシーンです
+2020年の忘年会で使用したスロットマシーンです
 
 ## 開発環境
 Visual Studio 2019
