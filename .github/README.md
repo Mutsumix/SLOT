@@ -7,7 +7,7 @@
 Visual Studio 2019
 
 ## 使い方
-リポジトリをクローンすれば、すぐに開始できます。
+リポジトリをクローンすれば、すぐに開始できます。  
 https://user-images.githubusercontent.com/46163569/120410855-c4d50800-c38e-11eb-88ab-3bb19f11d409.mp4
 
 ### BGM
